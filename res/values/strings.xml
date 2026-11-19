@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="station">Radio Mantra</string>
+    <string name="play_pause">Play / Pause</string>
+    <string name="connecting">Соединение…</string>
+    <string name="reconnecting">Переподключение…</string>
+    <string name="playing">В эфире</string>
+    <string name="paused">Пауза</string>
+    <string name="error">Ошибка — нажмите ещё раз</string>
+</resources>
